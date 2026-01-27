@@ -16,8 +16,8 @@
 <li>The website can take reviews and feedback from the visitors and work on it.</li>
 </ul>
 </p>
-<img width="1309" height="738" alt="Website D1" src="https://github.com/user-attachments/assets/af774344-2997-4300-800c-19d7e9ddaa61" />
-<img width="1314" height="738" alt="Website D2" src="https://github.com/user-attachments/assets/98e0cde3-efbf-4056-815f-1fc6be81a665" />
-<img width="436" height="336" alt="Website D3" src="https://github.com/user-attachments/assets/49befbe4-c78e-488d-af5f-f7a36be8cabd" />
+<img width="300" height="400" alt="Website D1" src="https://github.com/user-attachments/assets/af774344-2997-4300-800c-19d7e9ddaa61" />
+<img width="300" height="400" alt="Website D2" src="https://github.com/user-attachments/assets/98e0cde3-efbf-4056-815f-1fc6be81a665" />
+<img width="200" height="200" alt="Website D3" src="https://github.com/user-attachments/assets/49befbe4-c78e-488d-af5f-f7a36be8cabd" />
 
 
