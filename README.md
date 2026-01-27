@@ -20,7 +20,9 @@
 <img width="450" height="550" alt="Website D2" src="https://github.com/user-attachments/assets/98e0cde3-efbf-4056-815f-1fc6be81a665" />
 <br>
 <br>
-<ul><li style="list-style: square"><b>Also, added a ToolTip to the Dashboard.</b></li></ul>
+<ul><li style="list-style: square">
+  <b>Also, added a ToolTip to the Dashboard.</b>
+</li></ul>
 <img width="350" height="350" alt="Website D3" src="https://github.com/user-attachments/assets/5bc60470-e480-4fa7-b6ef-f8cb3267b8e9" />
 
 
