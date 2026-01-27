@@ -16,8 +16,10 @@
 <li>The website can take reviews and feedback from the visitors and work on it.</li>
 </ul>
 </p>
-<img width="400" height="500" alt="Website D1" src="https://github.com/user-attachments/assets/af774344-2997-4300-800c-19d7e9ddaa61" />
-<img width="400" height="500" alt="Website D2" src="https://github.com/user-attachments/assets/98e0cde3-efbf-4056-815f-1fc6be81a665" />
-<img width="350" height="350" alt="Website D3" src="https://github.com/user-attachments/assets/49befbe4-c78e-488d-af5f-f7a36be8cabd" />
+<img width="450" height="550" alt="Website D1" src="https://github.com/user-attachments/assets/af774344-2997-4300-800c-19d7e9ddaa61" />
+<img width="450" height="550" alt="Website D2" src="https://github.com/user-attachments/assets/98e0cde3-efbf-4056-815f-1fc6be81a665" />
+<p>Also, added a ToolTip to the Dashboard.</p>
+<img width="350" height="350" alt="Website D3" src="https://github.com/user-attachments/assets/5bc60470-e480-4fa7-b6ef-f8cb3267b8e9" />
+
 
 
